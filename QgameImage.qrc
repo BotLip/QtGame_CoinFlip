@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/gameIcon/coin1.bmp</file>
+        <file>Image/gameIcon/coin2.bmp</file>
+        <file>Image/gameIcon/coin3.bmp</file>
+        <file>Image/gameIcon/coin4.bmp</file>
+        <file>Image/gameIcon/quit.bmp</file>
+        <file>Image/gameIcon/start.bmp</file>
+        <file>Image/bkg/bg.bmp</file>
+        <file>Image/gameIcon/win.bmp</file>
+        <file>Image/gameIcon/quitSelected.bmp</file>
+        <file>Image/Icon/levelIcon.bmp</file>
+    </qresource>
+</RCC>
